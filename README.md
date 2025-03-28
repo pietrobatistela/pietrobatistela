@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;:%29)](https://git.io/typing-svg)
 
 ##
-📌 Atuando como desenvolvedora fullstack pleno  <br>
 📌Cursando o 1º semestre de Ciência da Computação na Universidade Cruzeiro do Sul - (UNICSUL). <br>
 📌Formado em Técnico em Desenvolvimento de Sistemas. <br>
 📌Apaixonado pela área de desenvolvimento!
