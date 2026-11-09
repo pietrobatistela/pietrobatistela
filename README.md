@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ebe8dd&size=35&center=true&vCenter=true&width=1000&lines=Olá👋;Bem-vindo(a)+ao+meu+repositório!;)](https://git.io/typing-svg)
 
 ##
-📌Cursando o 2º semestre de Ciência da Computação na Universidade Cruzeiro do Sul - (UNICSUL). <br>
+📌Cursando o 4º semestre de Ciência da Computação na Universidade Cruzeiro do Sul - (UNICSUL). <br>
 📌Formado em Técnico em Desenvolvimento de Sistemas. <br>
 📌Apaixonado pela área de desenvolvimento!
 
